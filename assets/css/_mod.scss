@@ -1,0 +1,7 @@
+@mixin text_style ($f-f, $f-s, $l-h, $f-w, $coloring) {
+    font-family: $f-f;
+    font-size: $f-s;
+    line-height: $l-h;
+    font-weight: $f-w;
+    color: $coloring;
+  }
